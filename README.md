@@ -2,6 +2,9 @@
 
 A responsive FAQ accordion component with interactive questions and answers. Its my first demo!
 
+## Live Demo
+View Live Site:(https://akotridou.github.io/faq-accordion/)
+
 ## Features
 - Expand and collapse FAQ items
 - Interactive buttons
@@ -19,5 +22,3 @@ A responsive FAQ accordion component with interactive questions and answers. Its
 - Working with the DOM
 - CSS layouts and responsive design
 
-## Live Demo
-View Live Site:(https://akotridou.github.io/faq-accordion/)
